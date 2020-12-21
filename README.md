@@ -25,3 +25,4 @@ passes the network makes on the training data. E.g. noOfEpochs = 2 would mean th
    Once the network finishes training, it opens up a visualisation tool which displays the accuracy of the network and shows how it performs for every image on the training
    set.
    There is also a JAR file that has 98.99% percent acccury, pretrained system.
+   This project was made using NetBeans IDE 8.2.
